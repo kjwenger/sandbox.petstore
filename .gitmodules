@@ -1,0 +1,12 @@
+[submodule "sandbox.petstore.erlang"]
+	path = sandbox.petstore.erlang
+	url = https://github.com/kjwenger/sandbox.petstore.erlang.git
+[submodule "sandbox.petstore.golang"]
+	path = sandbox.petstore.golang
+	url = https://github.com/kjwenger/sandbox.petstore.golang.git
+[submodule "sandbox.petstore.cppcms"]
+	path = sandbox.petstore.cppcms
+	url = https://github.com/kjwenger/sandbox.petstore.cppcms.git
+[submodule "sandbox.petstore.nodejs"]
+	path = sandbox.petstore.nodejs
+	url = https://github.com/kjwenger/sandbox.petstore.nodejs.git
