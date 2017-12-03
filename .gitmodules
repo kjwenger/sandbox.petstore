@@ -10,3 +10,6 @@
 [submodule "sandbox.petstore.nodejs"]
 	path = sandbox.petstore.nodejs
 	url = https://github.com/kjwenger/sandbox.petstore.nodejs.git
+[submodule "sandbox.petstore.cutelyst"]
+	path = sandbox.petstore.cutelyst
+	url = https://github.com/kjwenger/sandbox.petstore.cutelyst.git
