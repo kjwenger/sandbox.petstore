@@ -13,3 +13,6 @@
 [submodule "sandbox.petstore.cutelyst"]
 	path = sandbox.petstore.cutelyst
 	url = https://github.com/kjwenger/sandbox.petstore.cutelyst.git
+[submodule "sandbox.petstore.go-swagger"]
+	path = sandbox.petstore.go-swagger
+	url = https://github.com/kjwenger/sandbox.petstore.go-swagger.git
