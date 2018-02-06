@@ -16,3 +16,6 @@
 [submodule "sandbox.petstore.go-swagger"]
 	path = sandbox.petstore.go-swagger
 	url = https://github.com/kjwenger/sandbox.petstore.go-swagger.git
+[submodule "sandbox.petstore.nginx"]
+	path = sandbox.petstore.nginx
+	url = https://github.com/kjwenger/sandbox.petstore.nginx.git
